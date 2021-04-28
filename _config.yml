@@ -1,0 +1,28 @@
+# Site settings
+name: Kurt Laurinaitis
+contactformid: xwkapddj
+email: kurtdl@gmail.com
+canonical_url: https://
+keywords: "Software Engineer,C#, Java, Angular, Duckcreek, Agile, OOP"
+skills: "Senior Full Stack Software Engineer - Indianapolis, IN"
+baseurl:
+
+social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/kurt-laurinaitis
+    
+
+google_verify:
+bing_verify:
+
+color:
+  primary: 17252a
+  primary-rgb: "23, 37, 42"
+  secondary: 2b787a
+  secondary-dark: 2b787a
+  section-tout: eaf1f1
+
+
+
+markdown: kramdown
+permalink: pretty
